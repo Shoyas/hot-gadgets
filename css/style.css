@@ -1,0 +1,27 @@
+.slide-background{
+    background-color: #FBE4E4;
+}
+.container{
+    padding-bottom: 100px;
+}
+.cards-extend{
+    color: #FFC61E;
+    font-weight: 500;
+   
+}
+.col-auto a{
+    text-decoration: none;
+}
+.col-auto a:hover{
+    color: #FFC61E;
+}
+.card-alignment{
+    text-align: center;
+}
+.card-footer{
+    border: none;
+    background-color: white;
+}
+.card{
+    box-shadow: 5px 5px 10px lightgrey;
+}
